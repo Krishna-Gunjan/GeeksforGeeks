@@ -1,0 +1,10 @@
+QUESTION:
+
+Maximum Occured Integer
+
+Given n integer ranges, the task is to return the maximum occurring integer in the given ranges.
+If more than one such integer exists, return the smallest one.
+The ranges are in two arrays l[] and r[].
+l[i] consists of the starting point of the range 
+and r[i] consists of the corresponding endpoint of the range. 
+maxx is the maximum value of r[].
