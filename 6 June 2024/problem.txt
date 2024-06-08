@@ -1,4 +1,4 @@
-QUESTIOIN:
+QUESTION:
 
 Max Sum in the Configuration
 
