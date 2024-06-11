@@ -1,0 +1,16 @@
+QUESTION:
+
+Maximum Tip Calculator
+
+In a restaurant, two waiters, A and B, receive n orders per day,
+earning tips as per arrays arr[i] and brr[i] respectively. 
+If A takes the ith order, the tip is arr[i] rupees; 
+if B takes it, the tip is brr[i] rupees.
+
+To maximize total tips, they must distribute the orders such that:
+
+    A can handle at most x orders
+    B can handle at most y orders
+
+Given that x + y ≥ n, all orders can be managed by either A or B. 
+Return the maximum possible total tip after processing all the orders.
