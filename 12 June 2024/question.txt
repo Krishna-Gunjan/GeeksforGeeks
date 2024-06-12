@@ -1,0 +1,5 @@
+QUESTION:
+
+Count numbers containing 4
+
+You are given a number n, Return the count of total numbers from 1 to n containing 4 as a digit.
