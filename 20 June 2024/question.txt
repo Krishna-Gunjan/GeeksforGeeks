@@ -1,0 +1,10 @@
+QUESTION:
+
+Integral Points Inside Triangle
+
+Given three non-collinear points whose co-ordinates are 
+p(p1, p2), q(q1, q2) and r(r1, r2) in the X-Y plane. 
+Return the number of integral (lattice) points strictly 
+inside the triangle formed by these points.
+
+Note: - A point in the X-Y plane is said to be an integral (lattice) point if both its coordinates are integral.
