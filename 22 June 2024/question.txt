@@ -1,0 +1,10 @@
+QUESTION:
+
+Extract the Number from the String
+
+Given a sentence containing several words and numbers. 
+Find the largest number among them which does not contain 9. 
+If no such number exists, return -1.
+
+Note: Numbers and words are separated by spaces only. 
+It is guaranteed that there are no leading zeroes in the answer.
