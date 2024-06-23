@@ -1,0 +1,7 @@
+QUESTION:
+
+Print Bracket Number
+
+Given a string str, the task is to find the bracket numbers,
+i.e., for each bracket in str, return i if the bracket is the 
+ith opening or closing bracket to appear in the string. 
