@@ -1,0 +1,8 @@
+QUESTION:
+
+Toeplitz matrix
+
+A Toeplitz (or diagonal-constant) matrix is a matrix in which each descending diagonal 
+from left to right is constant, i.e., all elements in a diagonal are the same. 
+Given a rectangular matrix mat, your task is to complete the function isToeplitz
+which returns true if the matrix is Toeplitz otherwise, it returns false
