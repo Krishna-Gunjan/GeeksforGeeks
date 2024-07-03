@@ -1,0 +1,6 @@
+QUESTION:
+
+Remove all occurences of duplicates in a linked list
+
+Given a sorted linked list, delete all nodes that have duplicate numbers (all occurrences), 
+leaving only numbers that appear once in the original list, and return the head of the modified linked list. 
