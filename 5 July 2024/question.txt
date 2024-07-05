@@ -1,0 +1,5 @@
+QUESTION:
+
+Vertical Width of a Binary Tree
+
+Given a Binary Tree. You need to find and return the vertical width of the tree.
