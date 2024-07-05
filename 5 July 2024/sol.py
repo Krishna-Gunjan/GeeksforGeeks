@@ -1,4 +1,4 @@
-class Solution():
+class Solution:
 
   def verticalWidth(self, root):
     
