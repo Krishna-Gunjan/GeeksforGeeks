@@ -1,0 +1,10 @@
+QUESTION:
+
+Ancestors in Binary Tree
+Given a Binary Tree and an integer target. Find all the ancestors of the given target.
+
+Note:
+
+    The ancestor of node x is node y, which is at the upper level of node x, and x is directly connected with node y. Consider multiple levels of ancestors to solve this problem.
+    
+    In case there are no ancestors available, return an empty list.
