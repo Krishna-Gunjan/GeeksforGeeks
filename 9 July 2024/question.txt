@@ -1,0 +1,8 @@
+QUESTION:
+
+Closest Three Sum
+
+Given an array, arr of integers, and another number target, find three integers 
+in the array such that their sum is closest to the target. Return the sum of the three integers.
+
+Note: If there are multiple solutions, return the maximum one.
