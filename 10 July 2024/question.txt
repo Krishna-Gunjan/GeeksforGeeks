@@ -1,0 +1,6 @@
+QUESTION:
+
+Largest square formed in a matrix
+
+Given a binary matrix mat of size n * m, find out the 
+maximum length of a side of a square sub-matrix with all 1s.
